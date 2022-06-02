@@ -1,0 +1,23 @@
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar img {
+    width: 9%;
+    margin: 25px 55px;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #e50914;
+    padding: 8px 18px;
+    border-radius: 5px;
+    margin: 25px 55px;
+}
