@@ -6,7 +6,7 @@ function Banner() {
     <div className='banner'>
         <img src="https://wallpaperaccess.com/full/2703652.png" className='bgImage' alt="" />
         <div className="content">
-          <h1 className='title'>Movie Name</h1>
+          <h1 className='title'>Money Heist</h1>
           <div className="banner_button">
             <button className='button'>Play</button>
             <button className='button'>My List</button>
