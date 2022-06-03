@@ -5,18 +5,14 @@ function Banner() {
   return (
     <div className='banner'>
         <img src="https://wallpaperaccess.com/full/2703652.png" className='bgImage' alt="" />
-        <div className="box">
-            <div className="heading">
-                <h2>Unlimited movies, TV shows and more.</h2>
-                <h5>Watch anywhere. Cancel anytime.</h5>
-                <p>Ready to watch? Enter your email to create or restart your membership.</p>
-            </div>
-            <div className="search">
-                <input type="text" name='' placeholder='Enter address' />
-                <a href="#s">Get Started</a>
-            </div>
+        <div className="content">
+          <h1 className='title'>Movie Name</h1>
+          <div className="banner_button">
+            <button className='button'>Play</button>
+            <button className='button'>My List</button>
+          </div>
+          <h1 className='description'>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the</h1>
         </div>
-      
     </div>
   )
 }
