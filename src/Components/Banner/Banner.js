@@ -14,6 +14,7 @@ function Banner() {
           <h1 className='description'>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the</h1>
         </div>
     </div>
+    
   )
 }
 
